@@ -3,8 +3,8 @@ import React from 'react'
 const LearnComponent = () => {
   return (
     <>
-      <h1> Dont worry Rostik Pahadi</h1>
-      <h2> Dont worry Sagar Silwal</h2>
+      <h1> This is component 1</h1>
+      <h2>This is component 2</h2>
     </>
   )
 }
