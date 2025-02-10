@@ -17,6 +17,7 @@ import LearnUseCallback from "./components/LearnUseCallback";
 
 import LearnUseEffect from "./components/LearnUseEffect";
 import LearnUseMemo from "./components/LearnUseMemo";
+import LearnUseOfImage from "./components/LearnUseOfImage";
 
 
 
@@ -43,8 +44,9 @@ function App() {
     {/* <LearnInlineCSS/> */}
     {/* <LearnExternalCSS1/>
     <LearnExternalCSS2/> */}
-    <LearnCSSModule1/>
-      <LearnCSSModule2/>
+    {/* <LearnCSSModule1/>
+      <LearnCSSModule2/> */}
+      <LearnUseOfImage/>
     </>
   )
 }
