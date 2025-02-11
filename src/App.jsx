@@ -19,6 +19,7 @@ import LearnUseCallback from "./components/LearnUseCallback";
 import LearnUseEffect from "./components/LearnUseEffect";
 import LearnUseMemo from "./components/LearnUseMemo";
 import LearnUseOfImage from "./components/LearnUseOfImage";
+import LearnUsingENV from "./components/LearnUsingENV";
 
 
 
@@ -48,7 +49,8 @@ function App() {
     {/* <LearnCSSModule1/>
       <LearnCSSModule2/> */}
       {/* <LearnUseOfImage/> */}
-      <LearnForm/>
+      {/* <LearnForm/> */}
+      <LearnUsingENV/>
     </>
   )
 }
