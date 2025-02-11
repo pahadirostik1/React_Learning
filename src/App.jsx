@@ -7,6 +7,7 @@ import LearnCustomHook from "./components/LearnCustomHook";
 import LearnEvent from "./components/LearnEvent";
 import LearnExternalCSS1 from "./components/LearnExternalCSS1";
 import LearnExternalCSS2 from "./components/LearnExternalCSS2";
+import LearnForm from "./components/LearnForm";
 import LearnInlineCSS from "./components/LearnInlineCSS";
 import LearnJSX from "./components/LearnJSX"
 import LearnLiftingStateUp from "./components/LearnLiftingStateUp";
@@ -46,7 +47,8 @@ function App() {
     <LearnExternalCSS2/> */}
     {/* <LearnCSSModule1/>
       <LearnCSSModule2/> */}
-      <LearnUseOfImage/>
+      {/* <LearnUseOfImage/> */}
+      <LearnForm/>
     </>
   )
 }
